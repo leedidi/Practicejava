@@ -11,3 +11,4 @@ public class Hello {
 		System.out.println("Hello, java");
 	} //end of main
 } //end of class
+//수정용 추가함
