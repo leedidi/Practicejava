@@ -16,7 +16,7 @@ public class Arra7CreateByValueListExample {
 		System.out.println();
 	}
 	
-	public static int add(int[] scores) { // 왜 오류나지....? 아 p 대문자였음!
+	public static int add(int[] scores) { // 왜 오류나지....? 아 p 대문자였음! P 대문자로 바꾸고 문제 해결!
 		int sum = 0;
 		for(int i=0; i<3; i++) {
 			sum += scores[i];
