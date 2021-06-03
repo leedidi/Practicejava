@@ -10,6 +10,7 @@ public class ArrayCopyExample {
 		
 		for(int i=0; i<newStrArray.length; i++) {
 			System.out.println(newStrArray[i] + ", ");
+			
 		}
 	}
 }
