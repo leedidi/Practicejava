@@ -3,7 +3,8 @@ package sec03.exam01;
 public enum Week {
 	MONDAY,
 	TUESDAY,
-	WENDSDAY,
+	WEDNESDAY,
+	THURSDAY,
 	FRIDAY,
 	SATURDAY,
 	SUNDAY
