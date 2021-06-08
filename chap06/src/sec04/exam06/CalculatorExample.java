@@ -1,4 +1,4 @@
-package sec04.exma06;
+package sec04.exam06;
 
 public class CalculatorExample {
 	public static void main(String[] args) {

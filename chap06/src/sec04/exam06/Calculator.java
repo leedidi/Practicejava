@@ -1,4 +1,4 @@
-package sec04.exma06;
+package sec04.exam06;
 
 public class Calculator {
 	//정사각형의 넓이
