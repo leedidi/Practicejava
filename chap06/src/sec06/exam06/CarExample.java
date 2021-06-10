@@ -19,4 +19,4 @@ public class CarExample {
 	
 	System.out.println("현재 속도: " + myCar.getSpeed());
 	}
-}
+}	//sec06.종료
